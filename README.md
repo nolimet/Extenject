@@ -163,7 +163,7 @@ Or, if you have found a bug, you are also welcome to create an issue on the [git
 
 [![GitHub releases](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub%20Releases&labelColor=181717&message=Downloads&color=green&logo=GitHub&logoColor=white)](https://github.com/Mathijs-Bakker/Extenject/releases)
 [![Unity](https://img.shields.io/static/v1?style=for-the-badge&label=Unity%20Asset%20Store&labelColor=181717&message=Download&color=green&logo=Unity&logoColor=white)](https://assetstore.unity.com/packages/tools/utilities/extenject-dependency-injection-ioc-157735)
-[![Unity Package](https://img.shields.io/static/v1?style=for-the-badge&label=Unity%20Package&labelColor=181717&message=UPM&color=green&logo=Unity&logoColor=white)](https://github.com/Mathijs-Bakker/Extenject/issues/2)
+[![Unity Package](https://img.shields.io/static/v1?style=for-the-badge&label=Unity%20Package&labelColor=181717&message=UPM&color=green&logo=Unity&logoColor=white)](https://github.com/starikcetin/Extenject/tree/upm)
 
 You can install Zenject using any of the following methods
 
