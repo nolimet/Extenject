@@ -307,7 +307,10 @@ namespace Zenject
                 UIDocument[] uiDocuments = rootObjectsInScene[i].GetComponentsInChildren<UIDocument>(true);
                 for (int j = 0; j < uiDocuments.Length; j++)
                 {
-                    uiDocuments[j].rootVisualElement.Query().ForEach(x => _container.QueueForInject(x));
+                    if (uiDocuments[j].rootVisualElement != null) //In case the document has not been initalized yet
+                    {
+                        uiDocuments[j].rootVisualElement.Query().ForEach(x => _container.QueueForInject(x));
+                    }
                 }
             }
 #endif
