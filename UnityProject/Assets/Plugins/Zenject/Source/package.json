@@ -1,9 +1,9 @@
 {
 	"name": "nl.jessestam.extenject",
-	"version": "9.3.3",
+	"version": "9.3.4",
 	"displayName": "Extenject",
 	"description": "Dependency Injection Framework for Unity3D",
-	"unity": "2022.3",
+	"unity": "6000.0",
 	"keywords": [
 		"extenject"
 	],
